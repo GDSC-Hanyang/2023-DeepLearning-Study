@@ -14,7 +14,7 @@
 
 ```bash
 # Core
-고다은, 표지원
+표지원(장), 표지원, 표지원 ...
 
 # General
 A, B, C, ...
@@ -33,6 +33,11 @@ A, B, C, ...
 5. [🙏 Git Flow / Rules](#-Git-Flow-/-Rules)
 
 ---
+
+
+<br>
+<br>
+<br>
 
 # 🙋‍♂️ 스터디 소개
 
