@@ -14,10 +14,10 @@
 
 ```bash
 # Core
-표지원(장), 표지원, 표지원 ...
+황동욱(장), 김남호, 조선빈, 조현진
 
 # General
-A, B, C, ...
+안태영, 이지환, 이재승, 서지현, 강용진, 송성근, 김예림, 한유진, 권도혁, 김찬원
 ```
 
 <br>
@@ -41,19 +41,21 @@ A, B, C, ...
 
 # 🙋‍♂️ 스터디 소개
 
-### 1️⃣ 스터디 첫번째 주제입니다!
+### 1️⃣ Machine Learning (Regression 등)
 
-**핵심 주제**를 여기에서 설명해주세요.
+Regression 과정을 이해하고, 코드로 작성해보기
 
-### 2️⃣ 스터디 두번째 주제입니다!
+### 2️⃣ DNN (Activation function & Dropout)
 
-두 번째에 대한 설명을 여기에 적어주세요.
+ReLU, Dropout 같은 기법에 대해 이해하기
 
-**핵심 주제**에 도 이렇게 Highlight 해서 설명해주세요.
+### 3️⃣ CNN & RNN
 
-### 3️⃣ 스터디 첫번째 주제입니다!
+CNN, RNN 등의 인공신경망에 대해 알아보기
 
-세 번째 까지 있다면, **핵심 주제**를 여기에서 설명해주세요.
+### ⭐ Kaggle 공모전 코드 리뷰 ⭐
+
+실제 데이터셋을 다뤄보고, 직접 코드 성능 개선해보기
 
 <br>
 <br>
@@ -78,17 +80,10 @@ A, B, C, ...
 
 ## 📃 Languages / Libraries
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-```bash
-# 스터디별로 맞는 icon 넣으시면 됩니다.
-```
 
 <br>
 <br>
